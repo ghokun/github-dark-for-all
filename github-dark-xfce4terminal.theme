@@ -1,0 +1,7 @@
+[Scheme]
+Name=Github Dark
+ColorPalette=rgb(0,0,0);rgb(249,117,131);rgb(133,232,157);rgb(255,171,112);rgb(121,184,255);rgb(179,146,240);rgb(158,203,255);rgb(250,251,252);rgb(149,157,165);rgb(249,117,131);rgb(133,232,157);rgb(255,171,112);rgb(121,184,255);rgb(236,108,185);rgb(158,203,255);rgb(254,255,255)
+ColorForeground=#fafbfc
+ColorBackground=#24292e
+ColorBoldUseDefault=FALSE
+ColorBold=#fafbfc
